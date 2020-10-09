@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Riigipuhad.Joululaupaev"
+             Title="Jõululaupäev">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Jõululaupäev (ka: jõuluõhtu) on 24. detsember,
+                   päev enne esimest jõulupüha. Eestis on see päev riigipüha.
+                   Juliuse kalendri järgi, mida kasutab teiste seas Vene Õigeusu Kirik,
+                   langeb see päev praegu (aastatel 1900–2099) 6. jaanuarile."
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
