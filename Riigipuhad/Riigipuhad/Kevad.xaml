@@ -1,21 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Riigipuhad.MainPage"
-            xmlns:local="clr-namespace:Riigipuhad;assembly=Riigipuhad">
+             x:Class="Riigipuhad.Kevad"
+             xmlns:local="clr-namespace:Riigipuhad;assembly=Riigipuhad">
     <TabbedPage.Children>
         
         <local:SuurReede/>
         <local:Ulestousmispuhade/>
         <local:Kevadpuha/>
         <local:Nelipuhade/>
-        <local:Voidupuha/>
-        <local:Jaanipaev/>
-        <local:Taasiseseisvumispaev/>
-        <local:Joululaupaev/>
-        <local:EsimeneJoulupuha/>
-        <local:TeineJoulupuha/>
+        
     </TabbedPage.Children>
-
-
 </TabbedPage>

@@ -5,7 +5,16 @@
              Title="Ülestõusmispühade">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Ülestõusmispühad (ka lihavõttepühad ehk lihavõtted ja munapühad) on kristluses liikuvad pühad,
+                   mis algavad esimese täiskuu pühapäevaga pärast kevadist pööripäeva.
+                   Pühad mälestavad Jeesus Kristuse surnust ülestõusmist pärast ristilöömist.
+                   Ajaliselt langevad need kokku judaismi paasapühadega.
+                   Samale ajale jääb ka maausuliste kiigepüha ehk munapüha.
+                   Paljudes riikides on ülestõusmispühad ka riigipüha, kuid selle pikkus erineb riigiti.
+                   Eestis on riigipühaks kuulutatud vaid ülestõusmispühadele eelnev suur reede ja ülestõusmispühade 1. püha.
+                   Mitmel pool Euroopas on riigipüha ka ülestõusmispühade 2. püha,
+                   kuid Riigikogus on sellekohased ettepanekud korduvalt tagasi lükatud põhjendusega,
+                   et Eestis on kirik ja riik lahus ning Eesti ei ole kristlik riik."
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

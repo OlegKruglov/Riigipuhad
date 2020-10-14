@@ -5,7 +5,10 @@
              Title="Võidupüha">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Võidupüha on Eesti riigipüha, mida peetakse 23. juunil alates aastast 1934.
+                   Sellega tähistatakse Eesti võitu Võnnu lahingus Landeswehri üle 23. juunil 1919.
+                   Võidupüha on eraisikutele kohustuslikuks lipuheiskamise päevaks.
+                   Võidupüha tähistamine on tseremoniaalselt seotud jaanipäeva tähistamisega 24. juunil."
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
