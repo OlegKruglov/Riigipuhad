@@ -10,7 +10,7 @@ using Xamarin.Forms.Xaml;
 namespace Riigipuhad
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Suvi : ContentPage
+    public partial class Suvi : TabbedPage
     {
         public Suvi()
         {

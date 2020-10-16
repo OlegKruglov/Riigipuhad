@@ -5,16 +5,17 @@
              Title="Jaanipäev">
     <ContentPage.Content>
         <StackLayout>
+            <Image Source=""/>
             <Label Text="Jaanipäev on Eestis 24. juunil tähistatav püha. 24. juunile eelnevat 23. juuni päeva nimetatakse jaanilaupäevaks ja nendevahelist ööd jaaniööks,
-                   seda tähistatakse Eestis, Lätis ja põhjamaades jaanituledega.
-                   Jaanipäeva nimetus pärineb kirikukalendrist, kirikus tähistatakse sel päeval Ristija Johannese sünnipäeva.
-                   Eesti Vabariigis on jaanilaupäev ja jaanipäev riigipühad; jaanilaupäeval peetakse Eestis võidupüha,
-                   mis tähistab Eesti vägede võitu Vabadussõjas Võnnu lahingus 23. juunil 1919 Landeswehri üle.
-                   Pärimuslik jaanipidu Vana-Vigala ohvrihiie juures (juuni 2016)
-                   Jaaniõhtut ja -ööd tähistatakse Eestis laialdaselt jaanituledega,
-                   millel on sümboolne seos pööripäeva ja päikese kõrgseisuga.
-                   Sel puhul on kombeks korraldada nii rahvapidusid kui ka tähistada püha sõprade ja tuttavate keskel väiksemate lõkkeõhtute või grillimisega koduaias või looduses.
-                   Tänapäevalgi on jaanipäev eestlaste jaoks üks aasta tähtsamaid pühi, mida ka välismaal viibides teistest sagedamini tähistatakse."
+seda tähistatakse Eestis, Lätis ja põhjamaades jaanituledega.
+Jaanipäeva nimetus pärineb kirikukalendrist, kirikus tähistatakse sel päeval Ristija Johannese sünnipäeva.
+Eesti Vabariigis on jaanilaupäev ja jaanipäev riigipühad; jaanilaupäeval peetakse Eestis võidupüha,
+mis tähistab Eesti vägede võitu Vabadussõjas Võnnu lahingus 23. juunil 1919 Landeswehri üle.
+Pärimuslik jaanipidu Vana-Vigala ohvrihiie juures (juuni 2016)
+Jaaniõhtut ja -ööd tähistatakse Eestis laialdaselt jaanituledega,
+millel on sümboolne seos pööripäeva ja päikese kõrgseisuga.
+Sel puhul on kombeks korraldada nii rahvapidusid kui ka tähistada püha sõprade ja tuttavate keskel väiksemate lõkkeõhtute või grillimisega koduaias või looduses.
+Tänapäevalgi on jaanipäev eestlaste jaoks üks aasta tähtsamaid pühi, mida ka välismaal viibides teistest sagedamini tähistatakse."
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

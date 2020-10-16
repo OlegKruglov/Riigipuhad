@@ -5,14 +5,15 @@
              Title="Taasiseseisvumispäev">
     <ContentPage.Content>
         <StackLayout>
+            <Image Source=""/>
             <Label Text="Taasiseseisvumispäev (ka iseseisvuse taastamise päev) on Eesti Vabariigi riigipüha,
-                   millega igal aastal 20. augustil tähistatakse Eesti Vabariigi de facto taastamist Eesti Vabariigi Ülemnõukogu otsusega Eesti riiklikust iseseisvusest,
-                   mis võeti Eesti Komiteega kooskõlastatult vastu Eesti Vabariigi Ülemnõukogu istungil 20. augustil 1991 kell 23:03.
-                   Sama dokumendiga otsustati moodustada Eesti Vabariigi põhiseaduse väljatöötamiseks Põhiseaduslik Assamblee,
-                   mille koosseis kujundatakse delegeerimise teel Eesti Vabariigi kõrgeima seadusandliku riigivõimuorgani Eesti Vabariigi Ülemnõukogu ning
-                   Eesti Vabariigi kodanikkonna esinduskogu Eesti Kongressi poolt ja
-                   viia läbi Eesti Vabariigi uue põhiseaduse järgi Eesti Vabariigi parlamendivalimised 1992. aasta jooksul.
-                   Eesti Vabariigi Ülemnõukogu lähtus oma otsuses Eesti Vabariigi järjekestvusest rahvusvahelise õiguse subjektina."
+millega igal aastal 20. augustil tähistatakse Eesti Vabariigi de facto taastamist Eesti Vabariigi Ülemnõukogu otsusega Eesti riiklikust iseseisvusest,
+mis võeti Eesti Komiteega kooskõlastatult vastu Eesti Vabariigi Ülemnõukogu istungil 20. augustil 1991 kell 23:03.
+Sama dokumendiga otsustati moodustada Eesti Vabariigi põhiseaduse väljatöötamiseks Põhiseaduslik Assamblee,
+mille koosseis kujundatakse delegeerimise teel Eesti Vabariigi kõrgeima seadusandliku riigivõimuorgani Eesti Vabariigi Ülemnõukogu ning
+Eesti Vabariigi kodanikkonna esinduskogu Eesti Kongressi poolt ja
+viia läbi Eesti Vabariigi uue põhiseaduse järgi Eesti Vabariigi parlamendivalimised 1992. aasta jooksul.
+Eesti Vabariigi Ülemnõukogu lähtus oma otsuses Eesti Vabariigi järjekestvusest rahvusvahelise õiguse subjektina."
                    VerticalOptions="CenterAndExpand" 
                    HorizontalOptions="CenterAndExpand" />
         </StackLayout>

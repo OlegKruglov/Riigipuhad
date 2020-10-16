@@ -6,15 +6,15 @@
     <ContentPage.Content>
         <StackLayout>
             <Label Text="Suur reede on kristlik püha, mil tähistatakse Jeesus Kristuse ristilöömist ja surma Kolgata mäel.
-                   See kuulub kokku rea teiste pühadega, mis seostuvad Jeesuse eluga. Suur reede eelneb lihavõttepühadele ning võib langeda kokku juudiusu paasapühadega.
-                   Kanooniliste evangeeliumite järgi löödi Jeesus tõenäoliselt risti reedel (päev enne sabatit; Johannese evangeelium 19:42).
-                   Tõenäoliselt toimus see kas aastal 33 või 34 (nagu pakkus välja Isaac Newton, võrreldes kuuseise ning piibliaegse ja juuliuse kalendri erinevust).
-                   Kuuvarjutuse järgi otsustades (ja kooskõlas Peetruse sõnadega Apostlite tegude raamatus, 2:20) toimus see reedel, 3. aprillil 33. aastal.
-                   Enamikus kristlikes usulahkudes on tavaks pidada suurel reedel erilisi jumalateenistusi.
-                   Nendeks puhkudeks on kirjutatud ka arvukalt muusikat, näiteks Johann Sebastian Bachi 'Matteuse passioon'.
-                   Katoliku kirikus on suur reede paastupäev. Luteri kirikus oli suur reede 16.-20. sajandil aasta suurim püha,
-                   mil töötegemine oli keelatud ja kõige suurem hulk inimesi tuli armulauale.
-                   Viimasel ajal on suuremad luterlikud kirikud siiski hakanud loobuma kombest korraldada suurel reedel armulauda."
+See kuulub kokku rea teiste pühadega, mis seostuvad Jeesuse eluga. Suur reede eelneb lihavõttepühadele ning võib langeda kokku juudiusu paasapühadega.
+Kanooniliste evangeeliumite järgi löödi Jeesus tõenäoliselt risti reedel (päev enne sabatit; Johannese evangeelium 19:42).
+Tõenäoliselt toimus see kas aastal 33 või 34 (nagu pakkus välja Isaac Newton, võrreldes kuuseise ning piibliaegse ja juuliuse kalendri erinevust).
+Kuuvarjutuse järgi otsustades (ja kooskõlas Peetruse sõnadega Apostlite tegude raamatus, 2:20) toimus see reedel, 3. aprillil 33. aastal.
+Enamikus kristlikes usulahkudes on tavaks pidada suurel reedel erilisi jumalateenistusi.
+Nendeks puhkudeks on kirjutatud ka arvukalt muusikat, näiteks Johann Sebastian Bachi 'Matteuse passioon'.
+Katoliku kirikus on suur reede paastupäev. Luteri kirikus oli suur reede 16.-20. sajandil aasta suurim püha,
+mil töötegemine oli keelatud ja kõige suurem hulk inimesi tuli armulauale.
+Viimasel ajal on suuremad luterlikud kirikud siiski hakanud loobuma kombest korraldada suurel reedel armulauda."
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

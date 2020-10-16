@@ -5,22 +5,11 @@
              Title="Iseseisvuspäev">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Eesti Vabariigi aastapäev on 24. veebruaril, millega tähistatakse Eesti Vabariigi väljakuulutamist 1918. aasta 24. veebruaril.
-                   Sel päeval avaldati Tallinnas 'Manifest kõigile Eestimaa rahvastele',
-                   milles kuulutati välja sõltumatu ja demokraatlik Eesti Vabariik. 24. veebruar on Eesti rahvuspüha ja iseseisvuspäev.
-                   Eesti taasiseseisvumise järgsel ajal on taastatud Eesti Vabariigi aastapäeva aegsete Eesti kaitseväe paraadide traditsioon,
-                   nii nagu see on kombeks paljudes riikides. Samuti on tavaks, et Eesti president korraldab iseseisvuspäeval piduliku vastuvõtu,
-                   kus annab üle riiklikud teenetemärgid, mille saajate nimekiri on varem ajakirjanduses ilmunud.
-                   Nii paraad kui ka vastuvõtt on eri aastail toimunud eri linnades, 2014. aastal toimusid need Pärnus.
-                   Paraadist, vastuvõtust ja vastuvõtule eelnevast kontserdist, mille alguses peab president aastapäevakõne,
-                   toimub otseülekanne televisioonis. Vastuvõtul toimuvat kätlemistseremooniat,
-                   kus president ja presidendiproua kõiki külalisi tervitavad, on irooniliselt nimetatud 'pingviinide paraadiks'
-                   (kõrvutades meeste pidulikke frakke pingviinide mustvalge sulestikuga).
-                   Kuna presidendi vastuvõtt korraldatakse alati Eesti Vabariigi aastapäeval,
-                   toimuvad samalaadsed vastuvõtud kohalikes omavalitsustes sageli juba 23. veebruaril,
-                   koolides jt asutustes on aktused vahel aga veelgi varem. Viimastel aastatel on tavaks,
-                   et peaminister peab kõne Tartus, Vanemuise teatris toimuval Tartu linna ja maakonna vastuvõtul.
-                   Tartus on traditsiooniks saanud ka üliõpilaskorporatsioonide kogunemine Tartu tähetorni heisatud Eesti lipu tervitamisele 24. veebruaril."
+            <Image Source=""/>
+            <Label Text="Eesti Vabariigi aastapäev on 24. veebruaril,
+millega tähistatakse Eesti Vabariigi väljakuulutamist 1918. aasta 24. veebruaril.
+Sel päeval avaldati Tallinnas 'Manifest kõigile Eestimaa rahvastele',
+milles kuulutati välja sõltumatu ja demokraatlik Eesti Vabariik. 24. veebruar on Eesti rahvuspüha ja iseseisvuspäev. "
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

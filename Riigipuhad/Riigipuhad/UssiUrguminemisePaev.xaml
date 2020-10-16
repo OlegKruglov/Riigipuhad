@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Riigipuhad.UssiUrguminemisePaev"
+             Title="Ussi urguminemise päev">
+    <ContentPage.Content>
+        <Image Source=""/>
+        <Label Text="08.09.(kristlikus rahvakalendris ussimaarjapäev) tähistab aega,
+mil ussid kaotavad mürgi ja hakkavad uimaselt talvitumispaika otsima.
+Kartes roomajaid häirida, ei minda mõnel pool metsa. Kodustest töödest pole õmblemine ja kudumine soovitavad,
+kuna vastasel korral võib järgmisel aastal uss häda teha."
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+    </ContentPage.Content>
+</ContentPage>

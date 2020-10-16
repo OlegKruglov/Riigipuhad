@@ -5,16 +5,10 @@
             xmlns:local="clr-namespace:Riigipuhad;assembly=Riigipuhad">
     <TabbedPage.Children>
         
-        <local:SuurReede/>
-        <local:Ulestousmispuhade/>
-        <local:Kevadpuha/>
-        <local:Nelipuhade/>
-        <local:Voidupuha/>
-        <local:Jaanipaev/>
-        <local:Taasiseseisvumispaev/>
-        <local:Joululaupaev/>
-        <local:EsimeneJoulupuha/>
-        <local:TeineJoulupuha/>
+        <local:Talv/>
+        <local:Kevad/>
+        <local:Suvi/>
+        <local:Sugis/>
     </TabbedPage.Children>
 
 

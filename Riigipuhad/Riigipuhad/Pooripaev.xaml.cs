@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace Riigipuhad
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Kevad : TabbedPage
+    public partial class Pooripaev : ContentPage
     {
-        public Kevad()
+        public Pooripaev()
         {
             InitializeComponent();
         }

@@ -10,7 +10,7 @@ using Xamarin.Forms.Xaml;
 namespace Riigipuhad
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Talv : ContentPage
+    public partial class Talv : TabbedPage
     {
         public Talv()
         {

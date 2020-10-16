@@ -5,14 +5,12 @@
              Title="Nelipühade">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Nelipühad on kristlik püha,
-                   millega mälestatakse Püha Vaimu laskumist apostlitele 50 päeva pärast Jeesuse Kristuse ülestõusmist ja 10 päeva pärast taevaminemispüha.
-                   See on kiriku sünnipäev.
-                   Nelipühad on seotud juudi pühaga šavuot, mis tähistab Jumalalt Moosesele Siinai mäel kümne käsu andmist.
-                   Šavuoti peetakse seitse nädalat pärast paasapühi ja ta on pärit kaugest paganlikust minevikust, mil tähistati lõikustänupüha.
-                   Eesti rahvakalendris kannavad nelipühad ka suvistepühade nime.
-                   Mälestatavast sündmusest jutustatakse Piiblis Apostlite tegude raamatu 2. peatükis.
-                   Nelipühade liturgiline värv on katoliku, luteri ja anglikaani kirikus tavapäraselt punane, õigeusu kirikutes reeglina roheline."
+            <Label Text="Nelipühad on kristlik püha,millega mälestatakse Püha Vaimu laskumist apostlitele 50 päeva pärast Jeesuse Kristuse ülestõusmist ja 10 päeva pärast taevaminemispüha.
+See on kiriku sünnipäev.Nelipühad on seotud juudi pühaga šavuot, mis tähistab Jumalalt Moosesele Siinai mäel kümne käsu andmist.
+Šavuoti peetakse seitse nädalat pärast paasapühi ja ta on pärit kaugest paganlikust minevikust, mil tähistati lõikustänupüha.
+Eesti rahvakalendris kannavad nelipühad ka suvistepühade nime.
+Mälestatavast sündmusest jutustatakse Piiblis Apostlite tegude raamatu 2. peatükis.
+Nelipühade liturgiline värv on katoliku, luteri ja anglikaani kirikus tavapäraselt punane, õigeusu kirikutes reeglina roheline."
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

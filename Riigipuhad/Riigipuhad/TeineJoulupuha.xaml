@@ -5,9 +5,10 @@
              Title="Teine jõulupüha">
     <ContentPage.Content>
         <StackLayout>
+            <Image Source=""/>
             <Label Text="Pärast Eesti iseseisvuse taastamist on esimene ja teine jõulupüha (25. ja 26. detsember) riigipühad ja puhkepäevad,
-                   alates 2005. aastast ka jõululaupäev.
-                   Jõulukombestikku mõjutab järjest rohkem rahvusvaheline traditsioon."
+alates 2005. aastast ka jõululaupäev.
+Jõulukombestikku mõjutab järjest rohkem rahvusvaheline traditsioon."
                     VerticalOptions="CenterAndExpand" 
                     HorizontalOptions="CenterAndExpand" />
         </StackLayout>
